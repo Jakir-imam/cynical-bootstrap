@@ -1,0 +1,17 @@
+$text-color: #e3e1da;
+
+
+* {
+	font-family: 'Poppins', sans-serif;
+}
+
+#nav {
+	.nav-link {
+		color: $text-color;
+	}
+	.nav-link:hover {
+		color: #ff0000;
+	}
+	
+
+}
